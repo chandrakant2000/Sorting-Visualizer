@@ -9,7 +9,7 @@ Helps to
 Features
 <ul>
   <li> Alter the speed of execution </li>
-  <li> Generate random array of numbers of sorting </li>
+  <li> Generate random array of numbers for sorting </li>
 </ul>
 
 <b> Technologies </b>
