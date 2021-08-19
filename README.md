@@ -1,4 +1,4 @@
-<h1 style="text-align: center"> Sorting Visualizer </h1>
+<h1 align="center"> Sorting Visualizer </h1>
 ## Overview
 
 
