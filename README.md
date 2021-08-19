@@ -11,3 +11,5 @@ Features
   <li> Alter the speed of execution </li>
   <li> Generate random array of numbers of sorting </li>
 </ul>
+
+<b> Technologies </b>
