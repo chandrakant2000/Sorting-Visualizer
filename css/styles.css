@@ -1,0 +1,130 @@
+body {
+    background-color: #ddd;
+}
+
+/* Navbar Section */
+.navbar-brand {
+    box-sizing: border-box;
+    width: 10%;
+    text-align: right;
+}
+
+.navbar-nav {
+    width: 100%;
+    justify-content: center;
+}
+
+#navbar ul li a:hover {
+    cursor: pointer;
+    background-color: #ddd;
+    border-radius: 3px;
+    color: black;
+}
+
+
+@media (max-width: 992px) {
+    .navbar-brand {
+        text-align: center;
+        margin-bottom: 5px;
+    }
+}
+
+@media (max-width: 700px) {
+    #navbar li {
+        text-align: center;
+    }
+
+    .navbar-brand {
+        margin-bottom: 10px;
+    }
+
+    .navbar button {
+        margin-bottom: 10px;
+    }
+}
+
+@media (min-width: 700px){
+    .navbar-expand-custom {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+    }
+    .navbar-expand-custom .navbar-nav {
+        flex-direction: row;
+    }
+    .navbar-expand-custom .navbar-nav .nav-link {
+        padding-right: .5rem;
+        padding-left: .5rem;
+    }
+    .navbar-expand-custom .navbar-collapse {
+        display: flex!important;
+    }
+    .navbar-expand-custom .navbar-toggler {
+        display: none;
+    }
+}
+
+.temp {
+    padding-left: 2.45%;
+    padding-right: 2.45%;
+}
+
+/* Content section */
+
+#content {
+    padding-bottom: 10px;
+}
+
+#content-input {
+    margin: 0; 
+    margin-top: 10px;
+    position: relative;
+    top: 10px;
+    text-align: center;
+}
+
+#label {
+    font-weight: 500; 
+    margin-right: 10px;
+}
+
+.heading {
+    text-align: center;
+    padding: 20px 0 10px 0;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 0;
+    
+}
+
+.row {
+    background-color: #eee;
+    margin-top: 0;
+    padding: 15px;
+}
+
+.array_container {
+    background-color: #ededed;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    flex-direction: row;
+    display: flex;
+    height: 66vh;
+    width: 100%;
+}
+
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+
+
+/* Footer Section */
+footer p{
+    border-top: 1px solid #777;
+    opacity: 0.7;
+}
+
+.opacity {
+    opacity: 0.7;
+}
