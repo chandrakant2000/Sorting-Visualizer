@@ -12,4 +12,4 @@ Features
   <li> Generate random array of numbers of sorting </li>
 </ul>
 
-<b font-size: 200> Technologies </b>
+<b font-size= "200"> Technologies </b>
