@@ -1,5 +1,5 @@
-# Sorting Visualizer
+<h1 style="text-align: center"> Sorting Visualizer </h1>
 ## Overview
 
 
-<h1> Hello </h1>
+
