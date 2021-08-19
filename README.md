@@ -5,3 +5,9 @@ Helps to
 <ul>
   <li> understand the working of sorting algorithms </li>
 </ul>
+
+Features
+<ul>
+  <li> Alter the speed of execution </li>
+  <li> Generate random array of numbers of sorting </li>
+</ul>
