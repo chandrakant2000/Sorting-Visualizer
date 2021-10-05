@@ -1,15 +1,12 @@
 <h1 align="center"> Sorting Visualizer </h1>
-<h2> This repo is an attempt to help in learning popular sorting algorithms by visualization </h2>
+<h2> This repo is an attempt to understand the working of popular sorting algorithms by visualization. </h2>
 
-Helps to 
-<ul>
-  <li> understand the working of sorting algorithms </li>
-</ul>
+![sv1](https://user-images.githubusercontent.com/69320883/136005285-a09bdf28-4fb8-4527-914c-9041604373d5.JPG)
 
 Features
 <ul>
-  <li> Alter the speed of execution </li>
-  <li> Generate random array of numbers for sorting </li>
+  <li> Alter the speed of execution. </li>
+  <li> Generate random array of numbers for sorting. </li>
 </ul>
 
 <b> Technologies </b>
